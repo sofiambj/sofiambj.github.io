@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One&display=swap');
+    
+#sideNav {
+    background: #fcfbf2;
+    text-align: center;
+    color: #669a93;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+    font-size: 18;
+    font-family: 'Questrial', sans-serif;
+    margin-top: 30;
+}
+
+#mainContent h2 {
+    color: #0a1e24;
+    font-family: 'Fjalla One', sans-serif;
+    background: #fcfbf2;
+    width: 1000;
+    margin-top: 15;
+    font-size: 30;
+    text-indent: 15;
+}
+
+#mainContent {
+    padding-left: 40;
+    background: #669a93;
+    font-family: 'Questrial', sans-serif;
+    font-size: 18;
+    padding-right: 50;
+    padding-top: 50;
+    padding-bottom: 50;
+}
+
+img {
+    border-radius: 70%;
+    height: 250;
+    margin-top: 30;
+    margin-bottom: 20;
+}
+
+a {
+    color: #0a1e24;
+}
+
+#mainContent h1 {
+    font-family: 'Fjalla One', sans-serif;
+    color: #fcfbf2;
+    font-size: 50;
+    margin-bottom: 0;
+}
+
+h5 {
+    margin-bottom: 0;
+    padding-left: 10;
+}
+
+h4 {
+    margin-bottom: 0;
+    color: #0a1e24
+}
+
+p {
+    margin-bottom: 10;
+    padding-right: 200
+}
+
+.heading {
+    font-weight: bolder;
+}
+
+.obj {
+    padding-left: 10;
+}
+.col-3 {
+    padding-left: 30;
+}
